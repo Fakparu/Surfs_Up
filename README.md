@@ -1,9 +1,7 @@
 # Surfs_Up
 Advanced Data Storage &amp; Retrieval: SQLite, SQLAlchemy, &amp; Flask
 1.	Overview of the statistical analysis:
-2.
-o	The purpose of the analysis is to get the temperature statistics for the month of June and December, that will help determine if the surf and ice cream shop business is sustainable year-round.
-o	To get the temperature data, there going to be two queries, one for the month of June and the other for the month of December. The queries will run, and the data stored in list and then to a dataframe. From the dataframe the summary statistics.
+The purpose of the analysis is to get the temperature statistics for the month of June and December, that will help determine if the surf and ice cream shop business is sustainable year-round. To get the temperature data, there going to be two queries, one for the month of June and the other for the month of December. Ran the queries,  and the data stored in list, then to a dataframe. From the dataframe the summary statistics.
 
 2.	Results:
 o	In June, count =1700, mean = 79.9, min = 64.0 and max = 85.0. June temperature statistics are listed in the table below.
